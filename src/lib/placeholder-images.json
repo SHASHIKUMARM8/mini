@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "black-smartphone",
+      "description": "A modern black smartphone with a cracked screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1558382075-9438374d7c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YmxhY2slMjBzbWFydHBob25lfGVufDB8fHx8MTc2NDU1NzI0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black smartphone"
+    },
+    {
+      "id": "leather-wallet",
+      "description": "A brown leather wallet, slightly worn.",
+      "imageUrl": "https://images.unsplash.com/photo-1629958513881-a086d21383cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsZWF0aGVyJTIwd2FsbGV0fGVufDB8fHx8MTc2NDUzMTQ0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather wallet"
+    },
+    {
+      "id": "car-keys",
+      "description": "A set of car keys on a keychain with a red fob.",
+      "imageUrl": "https://images.unsplash.com/photo-1562003596-a5827707367d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FyJTIwa2V5c3xlbnwwfHx8fDE3NjQ1NDYxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car keys"
+    },
+    {
+      "id": "blue-backpack",
+      "description": "A blue canvas backpack with multiple pockets.",
+      "imageUrl": "https://images.unsplash.com/photo-1550231726-d0253236ad2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxibHVlJTIwYmFja3BhY2t8ZW58MHx8fHwxNzY0NTc0NDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue backpack"
+    },
+    {
+      "id": "silver-laptop",
+      "description": "A slim silver laptop, looks like a MacBook.",
+      "imageUrl": "https://images.unsplash.com/photo-1589710917567-60ca712f0431?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzaWx2ZXIlMjBsYXB0b3B8ZW58MHx8fHwxNzY0NTc0NDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver laptop"
+    },
+    {
+      "id": "red-umbrella",
+      "description": "A compact red umbrella.",
+      "imageUrl": "https://images.unsplash.com/photo-1541005460290-3bbe4ded5654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWQlMjB1bWJyZWxsYXxlbnwwfHx8fDE3NjQ1NzQ0ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red umbrella"
+    },
+    {
+      "id": "black-headphones",
+      "description": "Over-ear black headphones.",
+      "imageUrl": "https://images.unsplash.com/photo-1658089710277-df41aa6ec6cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YmxhY2slMjBoZWFkcGhvbmVzfGVufDB8fHx8MTc2NDQ3MjI2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black headphones"
+    },
+    {
+      "id": "notebook-journal",
+      "description": "A black Moleskine-style notebook.",
+      "imageUrl": "https://images.unsplash.com/photo-1649990593116-87d651c74351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxub3RlYm9vayUyMGpvdXJuYWx8ZW58MHx8fHwxNzY0NDY0NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "notebook journal"
+    },
+    {
+      "id": "water-bottle",
+      "description": "A stainless steel water bottle with some dents.",
+      "imageUrl": "https://images.unsplash.com/photo-1544003484-3cd181d17917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3YXRlciUyMGJvdHRsZXxlbnwwfHx8fDE3NjQ0OTQ5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water bottle"
+    },
+    {
+      "id": "sunglasses",
+      "description": "A pair of aviator sunglasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1552337557-45792b252a2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdW5nbGFzc2VzfGVufDB8fHx8MTc2NDU3MDE4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunglasses"
+    }
+  ]
+}
